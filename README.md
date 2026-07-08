@@ -9,9 +9,10 @@ Full Stack Developer • React • FastAPI • Python • MongoDB
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Building+Scalable+Web+Applications;🤖+Creator+of+AI-KLARITY;⚛️+React+%7C+FastAPI+%7C+Python;💡+Always+Learning+New+Technologies;🌟+Open+Source+Contributor" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer;AI+Application+Developer;React+%7C+FastAPI+%7C+Python;Always+Learning+Something+New" />
+</a>
 </p>
-
 ---
 
 # 🚀 About Me
