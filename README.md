@@ -1,52 +1,62 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Dinesh%20Jangra&fontSize=55&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Open%20Source%20Enthusiast&descAlignY=60"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=DINESH%20JANGRA&fontSize=55&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Dinesh Jangra</h1>
-
-<h3 align="center">
-Full Stack Developer • React • FastAPI • Python • MongoDB
-</h3>
+<h1 align="center">⚡ Welcome to my GitHub ⚡</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer;AI+Application+Developer;React+%7C+FastAPI+%7C+Python;Always+Learning+Something+New" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+AI-KLARITY;React+%7C+FastAPI+%7C+Python;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 </p>
----
-
-# 🚀 About Me
-
-💻 Passionate Full Stack Developer from India
-
-🤖 Currently building **AI-KLARITY**, an AI-powered Interview Preparation Platform.
-
-⚡ Love building scalable applications with modern technologies.
-
-🌱 Learning
-
-- System Design
-- DevOps
-- Cloud Deployment
-- AI Integration
-
-🎯 Goal
-
-Become a Software Engineer building impactful AI products.
-
----
-
-# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,bootstrap,tailwind,nodejs,express,python,fastapi,mongodb,mysql,firebase,git,github,vscode,figma,linux,postman,docker&perline=11"/>
+<img src="https://img.shields.io/badge/Code-Everyday-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Developer-purple?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Dineshindiexpert&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 👨‍💻 About Me
+
+<details open>
+
+<summary>🚀 Click to Explore</summary>
+
+```text
+💻 Name          : Dinesh Jangra
+
+🌍 Location      : Haryana, India
+
+🎓 Role          : Full Stack Developer
+
+🤖 Working On    : AI-KLARITY
+
+⚡ Learning      : DevOps | Docker | AWS
+
+💙 Love          : React + FastAPI + Python
+```
+
+</details>
+
+---
+
+# ⚙ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,bootstrap,python,fastapi,nodejs,express,mongodb,mysql,firebase,git,github,vscode,figma,postman,docker,linux&perline=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Dashboard
 
 <p align="center">
 
@@ -58,27 +68,17 @@ Become a Software Engineer building impactful AI products.
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshindiexpert&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshindiexpert&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshindiexpert&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dineshindiexpert&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dineshindiexpert&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -86,64 +86,77 @@ Become a Software Engineer building impactful AI products.
 
 # 🚀 Featured Projects
 
-### 🤖 AI-KLARITY
+<details open>
 
-> AI Powered Interview Preparation Platform
+<summary>🔥 My Best Projects</summary>
 
-✨ Features
+## 🤖 AI-KLARITY
+
+AI Powered Interview Preparation Platform
 
 - Resume Analyzer
 - AI Mock Interview
-- AI Feedback
-- Dashboard Analytics
-- JWT Authentication
-- Resume Parsing
-- Performance Reports
+- Dashboard
+- JWT Auth
+- FastAPI
+- MongoDB
 
 ---
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio
 
-Modern responsive portfolio built with React.
-
----
-
-### 💬 Chat Application
-
-Real-time chat application using Firebase.
+Modern Portfolio using React
 
 ---
 
-### 🏦 Bank Management System
+## 💬 Chat App
 
-Console application written in C.
+Realtime Firebase Chat
 
 ---
 
-# 💻 Currently Learning
+## 🏦 Bank Management
+
+C Language Project
+
+</details>
+
+---
+
+# 📚 Currently Learning
 
 ```text
-System Design        █████████░░ 90%
+System Design        ██████████░░ 90%
 
-Docker               ████████░░░ 80%
+Docker               ████████░░░░ 80%
 
-AWS                  ██████░░░░░ 60%
+AWS                  ██████░░░░░░ 60%
 
-DevOps               ██████░░░░░ 60%
+DevOps               ██████░░░░░░ 60%
 ```
 
 ---
 
-# 🌎 Connect With Me
+ 
+
+# 🌍 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/dinesh-jangra-web/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/dinesh-jangra-web/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="mailto:dineshjangra0062@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+<a href="https://wa.me/919728752168" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="45" />
+</a>
+
+<a href="https://x.com/DineshJang69847" target="_blank">
+  <img src="https://cdn.simpleicons.org/x" height="45" />
 </a>
 
 </p>
@@ -152,20 +165,12 @@ DevOps               ██████░░░░░ 60%
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dineshindiexpert&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/Dineshindiexpert?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Dineshindiexpert?style=for-the-badge"/>
+### 💙 "Eat • Sleep • Code • Repeat"
 
 </p>
-
----
 
 <p align="center">
 
-⭐️ Thanks for visiting my profile! ⭐️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:2c5364,50:203a43,100:0f2027"/>
 
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
